@@ -19,6 +19,8 @@ import (
 	"log"
 	"os"
 
+	_ "image/jpeg"
+
 	"github.com/google/tink/go/kwp/subtle"
 )
 
